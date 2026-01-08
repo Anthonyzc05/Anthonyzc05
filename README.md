@@ -1,4 +1,4 @@
-Hola, soy Edgar Anthony Paul Zuñiga
+Hola, soy Edgar Anthony Paul Zuñiga Cavero
 Estudiante de Arquitectura de Sistemas de Información
 En camino a convertirme en Desarrollador Full Stack
 
