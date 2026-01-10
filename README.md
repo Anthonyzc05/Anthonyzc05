@@ -2,9 +2,9 @@ Hola, soy Edgar Anthony Paul Zuñiga Cavero
 Estudiante de Arquitectura de Sistemas de Información
 En camino a convertirme en Desarrollador de Bases de Datos y Desarrollador Full Stack
 
-Sobre mí
-Soy un estudiante apasionado por la tecnología y el desarrollo de software. Me interesa crear aplicaciones web y móviles funcionales, 
-escalables y con buen diseño. Actualmente estoy fortaleciendo mis conocimientos en *Full Stack Development*, combinando frontend y backend 
+Sobre mí:
+Soy un estudiante apasionado por la tecnología y el desarrollo de software y base de datos. Me interesa crear aplicaciones web y móviles funcionales y dinamicos, 
+escalables y con buen diseño. Actualmente estoy fortaleciendo mis conocimientos en *Full Stack Development y analista de base de datos*, combinando frontend y backend 
 para construir soluciones completas. Me gusta aprender nuevas tecnologías, resolver problemas y trabajar en proyectos que tengan impacto real.
 
 Tecnologías y Herramientas utilizadas en proyectos
